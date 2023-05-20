@@ -1,5 +1,3 @@
-![9204140_12617](https://github.com/amrremam/Invoices-Project/assets/99700574/c6e5455c-ffab-4a5f-b300-004c13687432)
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
